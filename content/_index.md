@@ -1,23 +1,23 @@
 ---
-title: "UP TO DATE"
+title: "LATEST TRENDS HERE"
 date: 2022-07-12T10:11:00+01:00
 draft: false
 ---
 
+![miss](miss.jpg)
 
-# LATEST TRENDS ARE IN
-
-Stuck between two pair of shoes? 
-
-Don't know where to travel next? 
-
-Here you have got all the latest trends in one place
-
-<!-- This is comment -->
-Japan 
-![image](Japan_Cherry-Blossoms_GettyImages-179989245.webp)
- 
+[Latest Articles](http://localhost:1313/articles/)
 
 
-Click [here](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjcupvNqI3zAhWSTsAKHVlJDJcQPAgI) for google
 
+
+![me](me.jpg)
+
+[About me](http://localhost:1313/about/)
+
+
+
+
+![member](member.jpg)
+
+[Become a memebr](http://localhost:1313/contact/)

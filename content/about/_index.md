@@ -7,3 +7,11 @@ draft: false
 I am a student at the University of Nottingham who loves travelling, all things tech, fashion and reading.
 
 I wanted to build this website to help you find all the best products, prices and latest news on the things YOU love
+
+Stuck between two pair of shoes?
+
+
+Don't know where to travel next?
+
+
+Here you have got all the latest trends in one place
