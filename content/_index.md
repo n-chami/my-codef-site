@@ -6,18 +6,16 @@ draft: false
 
 ![miss](miss.jpg)
 
-[Latest Articles](http://localhost:1313/articles/)
-
-
+[Latest Articles](/articles)
 
 
 ![me](me.jpg)
 
-[About me](http://localhost:1313/about/)
+[About me](/about)
 
 
 
 
 ![member](member.jpg)
 
-[Become a memebr](http://localhost:1313/contact/)
+[Become a memebr](/contact)
